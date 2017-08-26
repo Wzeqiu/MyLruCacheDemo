@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLruCacheDemo</string>
+    <string name="no_network_connection_toast"> 没有网络</string>
+</resources>
